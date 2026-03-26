@@ -13,4 +13,4 @@ const observer = new IntersectionObserver(
   }
 );
 
-revealElements.forEach((element) => observer.observe(element));
+revealElements.forEach((element) => observer.observe(element));;
